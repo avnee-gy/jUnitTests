@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author avnee
- *
- */
-module jUnitTests {
-}
